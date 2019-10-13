@@ -25,6 +25,7 @@
 </channel>
 </channels>
 
+<items>
 <item>
       <title>ASSISTIR AO VIVO</title>
       <link>https://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2/playlist.m3u8</link>
@@ -44,3 +45,4 @@
       
       <fanart>http://uploaddeimagens.com.br/images/002/415/346/full/fanart.jpg?1570913452</fanart>
 </item>
+</items>
