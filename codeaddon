@@ -17,7 +17,7 @@
 <name>[COLOR white]AO VIVO[/COLOR]</name>
 <thumbnail>http://uploaddeimagens.com.br/images/002/415/344/full/ao-vivo.png?1570913438</thumbnail>
 
-<link>blob:https://livemidia.com:2000/e7a888a6-d51f-4a00-b936-fbc80ac464c8</link>
+<link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
 
 <fanart>http://uploaddeimagens.com.br/images/002/415/346/full/fanart.jpg?1570913452</fanart>
 
