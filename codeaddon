@@ -1,6 +1,6 @@
 <items>
 <item>
-      <name>[COLOR white][B]SEJA BEM VINDO A TV CIDADE[/B][/COLOR]</name>
+      <title>[COLOR white][B]SEJA BEM VINDO A TV CIDADE[/B][/COLOR]</title>
       <link>http://#</link>
       <thumbnail>http://uploaddeimagens.com.br/images/002/415/343/full/bem-vindo.png?1570913415</thumbnail>
       <externallink>https://</externallink>
@@ -9,7 +9,7 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<
 <item>
-      <title>ASSISTIR AO VIVO</title>
+      <title>[COLOR white][B]ASSISTIR AO VIVO[/B][/COLOR]</title>
       <link>rtmps://5c64355d4b57c.streamlock.net:1936/tvcidade2/tvcidade2</link>
       <thumbnail>http://uploaddeimagens.com.br/images/002/415/344/full/ao-vivo.png?1570913438</thumbnail>
       <info>[COLOR white]Acesse agora nossa Programação AO VIVO[/COLOR]</info>
