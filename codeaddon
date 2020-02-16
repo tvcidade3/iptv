@@ -2,7 +2,7 @@
 <item>
       <title>[COLOR white][B]SEJA BEM VINDO A TV REDE CIDADE[/B][/COLOR]</title>
       <link>http://#</link>
-      <thumbnail>https://i.ibb.co/MB5q65r/bem-vindo.png</thumbnail>
+      <thumbnail>https://i.ibb.co/G5SsQXM/tv-rede-cidade-BEM-VINDO.png</thumbnail>
       <externallink>https://</externallink>
       <fanart>https://i.ibb.co/w6kpNqp/fanart.jpg</fanart>
       <info>[COLOR white]Agora ficou bem mais fácil acompanhar a programação, por meio do nosso Aplicativo aqui no KODI.[/COLOR]</info>
@@ -10,17 +10,10 @@
 <<<<<<<<<<<<<<<<<<<<<<<
 <item>
       <title>[COLOR white][B]ASSISTIR AO VIVO[/B][/COLOR]</title>
-      <link>https://livefocamundo.com:8081/tvcidade/index.m3u8</link>
-      <thumbnail>https://i.ibb.co/3mWLvjb/ao-vivo.png</thumbnail>
+      <link>https://5e36c064a2f6a.streamlock.net:1936/tvcidade/tvcidade/playlist.m3u8</link>
+      <thumbnail>https://i.ibb.co/MPs8qT3/tv-rede-cidade-AO-VIVO.png</thumbnail>
       <info>[COLOR white]Acesse agora nossa Programação AO VIVO[/COLOR]</info>
       <fanart>https://i.ibb.co/w6kpNqp/fanart.jpg</fanart>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<
-<item>
-      <title>[COLOR white][B]FALE CONOSCO[/B][/COLOR]</title>
-      <link>http://#</link>
-      <thumbnail>https://i.ibb.co/kc53yNm/entre-em-contato.png</thumbnail>
-      <info>[COLOR white]Fale com a gente sobre nossas transmissões, queremos te ouvir. Para dicas, dúvidas e mais informações é só entrar em contato.[/COLOR]</info>
-      <fanart>https://i.ibb.co/w6kpNqp/fanart.jpg</fanart>
-</item>
 </items>
