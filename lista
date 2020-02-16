@@ -1,7 +1,8 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mWLvjb/ao-vivo.png" group-title="TV REDE CIDADE",TV REDE CIDADE
-https://livefocamundo.com:8081/tvcidade/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kc53yNm/entre-em-contato.png" group-title="Entre em Contato",(83)996991162
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5SsQXM/tv-rede-cidade-BEM-VINDO.png" group-title="BEM VINDO",BEM VINDO
 https://tel:+5583996991162
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPs8qT3/tv-rede-cidade-AO-VIVO.png" group-title="TV REDE CIDADE",TV REDE CIDADE
+https://5e36c064a2f6a.streamlock.net:1936/tvcidade/tvcidade/playlist.m3u8
+
